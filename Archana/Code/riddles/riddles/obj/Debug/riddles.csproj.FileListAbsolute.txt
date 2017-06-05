@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\riddles\riddles\bin\Debug\riddles.exe.config
+C:\Users\student\Archana\Code\riddles\riddles\bin\Debug\riddles.exe
+C:\Users\student\Archana\Code\riddles\riddles\bin\Debug\riddles.pdb
+C:\Users\student\Archana\Code\riddles\riddles\obj\Debug\riddles.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\riddles\riddles\obj\Debug\riddles.exe
+C:\Users\student\Archana\Code\riddles\riddles\obj\Debug\riddles.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\guessDataType\guessDataType\bin\Debug\guessDataType.exe.config
+C:\Users\student\Archana\Code\guessDataType\guessDataType\bin\Debug\guessDataType.exe
+C:\Users\student\Archana\Code\guessDataType\guessDataType\bin\Debug\guessDataType.pdb
+C:\Users\student\Archana\Code\guessDataType\guessDataType\obj\Debug\guessDataType.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\guessDataType\guessDataType\obj\Debug\guessDataType.exe
+C:\Users\student\Archana\Code\guessDataType\guessDataType\obj\Debug\guessDataType.pdb
