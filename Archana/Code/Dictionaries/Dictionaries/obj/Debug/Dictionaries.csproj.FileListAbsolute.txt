@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\student\Archana\Code\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\student\Archana\Code\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\student\Archana\Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\student\Archana\Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb

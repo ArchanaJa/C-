@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe.config
+C:\Users\student\Archana\Code\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.exe
+C:\Users\student\Archana\Code\ArrayExercise\ArrayExercise\bin\Debug\ArrayExercise.pdb
+C:\Users\student\Archana\Code\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.exe
+C:\Users\student\Archana\Code\ArrayExercise\ArrayExercise\obj\Debug\ArrayExercise.pdb

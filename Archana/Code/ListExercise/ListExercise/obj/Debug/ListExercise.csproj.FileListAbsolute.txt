@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\ListExercise\ListExercise\bin\Debug\ListExercise.exe.config
+C:\Users\student\Archana\Code\ListExercise\ListExercise\bin\Debug\ListExercise.exe
+C:\Users\student\Archana\Code\ListExercise\ListExercise\bin\Debug\ListExercise.pdb
+C:\Users\student\Archana\Code\ListExercise\ListExercise\obj\Debug\ListExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\ListExercise\ListExercise\obj\Debug\ListExercise.exe
+C:\Users\student\Archana\Code\ListExercise\ListExercise\obj\Debug\ListExercise.pdb
