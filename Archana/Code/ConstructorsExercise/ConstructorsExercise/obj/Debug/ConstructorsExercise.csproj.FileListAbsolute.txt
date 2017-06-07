@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\ConstructorsExercise\ConstructorsExercise\bin\Debug\ConstructorsExercise.exe.config
+C:\Users\student\Archana\Code\ConstructorsExercise\ConstructorsExercise\bin\Debug\ConstructorsExercise.exe
+C:\Users\student\Archana\Code\ConstructorsExercise\ConstructorsExercise\bin\Debug\ConstructorsExercise.pdb
+C:\Users\student\Archana\Code\ConstructorsExercise\ConstructorsExercise\obj\Debug\ConstructorsExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\ConstructorsExercise\ConstructorsExercise\obj\Debug\ConstructorsExercise.exe
+C:\Users\student\Archana\Code\ConstructorsExercise\ConstructorsExercise\obj\Debug\ConstructorsExercise.pdb

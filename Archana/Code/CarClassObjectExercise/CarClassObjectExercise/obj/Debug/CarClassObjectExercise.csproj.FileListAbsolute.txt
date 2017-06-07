@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\CarClassObjectExercise\CarClassObjectExercise\bin\Debug\CarClassObjectExercise.exe.config
+C:\Users\student\Archana\Code\CarClassObjectExercise\CarClassObjectExercise\bin\Debug\CarClassObjectExercise.exe
+C:\Users\student\Archana\Code\CarClassObjectExercise\CarClassObjectExercise\bin\Debug\CarClassObjectExercise.pdb
+C:\Users\student\Archana\Code\CarClassObjectExercise\CarClassObjectExercise\obj\Debug\CarClassObjectExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\CarClassObjectExercise\CarClassObjectExercise\obj\Debug\CarClassObjectExercise.exe
+C:\Users\student\Archana\Code\CarClassObjectExercise\CarClassObjectExercise\obj\Debug\CarClassObjectExercise.pdb
