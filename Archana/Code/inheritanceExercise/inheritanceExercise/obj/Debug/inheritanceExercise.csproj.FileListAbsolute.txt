@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\inheritanceExercise\inheritanceExercise\bin\Debug\inheritanceExercise.exe.config
+C:\Users\student\Archana\Code\inheritanceExercise\inheritanceExercise\bin\Debug\inheritanceExercise.exe
+C:\Users\student\Archana\Code\inheritanceExercise\inheritanceExercise\bin\Debug\inheritanceExercise.pdb
+C:\Users\student\Archana\Code\inheritanceExercise\inheritanceExercise\obj\Debug\inheritanceExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\inheritanceExercise\inheritanceExercise\obj\Debug\inheritanceExercise.exe
+C:\Users\student\Archana\Code\inheritanceExercise\inheritanceExercise\obj\Debug\inheritanceExercise.pdb
