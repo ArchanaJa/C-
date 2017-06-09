@@ -1,0 +1,6 @@
+C:\Users\student\Archana\Code\averagesAssessment\averagesAssessment\bin\Debug\averagesAssessment.exe.config
+C:\Users\student\Archana\Code\averagesAssessment\averagesAssessment\bin\Debug\averagesAssessment.exe
+C:\Users\student\Archana\Code\averagesAssessment\averagesAssessment\bin\Debug\averagesAssessment.pdb
+C:\Users\student\Archana\Code\averagesAssessment\averagesAssessment\obj\Debug\averagesAssessment.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\averagesAssessment\averagesAssessment\obj\Debug\averagesAssessment.exe
+C:\Users\student\Archana\Code\averagesAssessment\averagesAssessment\obj\Debug\averagesAssessment.pdb

@@ -1,0 +1,9 @@
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\bin\Debug\myFirstForm.exe.config
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\bin\Debug\myFirstForm.exe
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\bin\Debug\myFirstForm.pdb
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\obj\Debug\myFirstForm.csprojResolveAssemblyReference.cache
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\obj\Debug\myFirstForm.Form1.resources
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\obj\Debug\myFirstForm.Properties.Resources.resources
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\obj\Debug\myFirstForm.csproj.GenerateResource.Cache
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\obj\Debug\myFirstForm.exe
+C:\Users\student\Archana\Code\myFirstForm\myFirstForm\obj\Debug\myFirstForm.pdb
